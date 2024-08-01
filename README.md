@@ -5,5 +5,4 @@
 
 <hr>
 
-
-<img width="1054" alt="image" src="https://github.com/nhnacademy-be6-supernova/docs/assets/91319157/78831552-adda-41c4-a2e2-fcaabb2663a9">
+![novabook](https://github.com/user-attachments/assets/8c495193-b12d-40a6-819a-0101e27cf3bd)
